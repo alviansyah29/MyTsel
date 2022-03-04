@@ -1,4 +1,4 @@
-# MyTsel
+# mytsel
 
 A new Flutter project.
 
